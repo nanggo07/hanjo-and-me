@@ -15,8 +15,8 @@
  
  <strong>*MUSIC TRACKS*</strong>
  <br>
- <li><a href="Paris in the rain.html"></a></li>
- <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO?</a></li>
+ <li><a href="Paris in the rain.html">Paris in the rain - Lauv </a></li>
+ <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li>
  
   
   
