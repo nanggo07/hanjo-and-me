@@ -16,11 +16,11 @@
   
   <p style= "margin-top: 350px; font-size: 34px;">
   <ol>
- <iframe width="894" height="503" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br><strong>*MUSIC TRACKS*</strong></p>
- <p>
+ <p style= "font-size: 27px;">
  <br>
- <li><a href="Paris in the rain.html">Paris in the rain - Lauv </a></li>
+ <li><a href="Paris in the rain.html">PARIS IN THE RAIN - Lauv </a></li>
  <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li>
  
   
