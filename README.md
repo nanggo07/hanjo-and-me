@@ -14,10 +14,11 @@
   </p>
   
   
-  <p style= "margin-top: 350px;">
+  <p style= "margin-top: 350px; font-size: 34px;">
   <ol>
  <iframe width="894" height="503" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <strong>*MUSIC TRACKS*</strong>
+ <br><strong>*MUSIC TRACKS*</strong></p>
+ <p>
  <br>
  <li><a href="Paris in the rain.html">Paris in the rain - Lauv </a></li>
  <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li>
