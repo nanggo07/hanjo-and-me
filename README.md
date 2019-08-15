@@ -3,6 +3,7 @@
   <p style= "margin-top: 200px;">
   <br>
     <br>안녕 내꺼..<3
+    <br><img src="h.jpg">
     <br>
   <ol><li><a href="jo7.html">너에게 할 말..</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
