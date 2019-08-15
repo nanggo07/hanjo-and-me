@@ -1,8 +1,10 @@
 # hanjo-and-me
 <body>
   <p style= "margin-top: 200px; font-size: 35px;">
-    <br>안녕 내꺼..<3
-    <br><img src="h.jpg">
+    <br>안녕 내꺼..<3 너의 페이지가 망가졌다니 
+                  <br>너무 슬퍼..ㅠㅠ
+    <br><img src="h.jpg"></p>
+ <p style= "font-size: 35px;">
     <br>
   <ol><li><a href="jo7.html">너에게 할 말..</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
