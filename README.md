@@ -1,7 +1,6 @@
 # hanjo-and-me
 <body>
-  <p style= "margin-top: 200px;">
-  <br>
+  <p style= "margin-top: 200px; font-size: 35px;">
     <br>안녕 내꺼..<3
     <br><img src="h.jpg">
     <br>
@@ -17,7 +16,7 @@
   
   <p style= "margin-top: 350px;">
   <ol>
- 
+ <iframe width="894" height="503" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <strong>*MUSIC TRACKS*</strong>
  <br>
  <li><a href="Paris in the rain.html">Paris in the rain - Lauv </a></li>
