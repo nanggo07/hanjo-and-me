@@ -4,7 +4,7 @@
     <br>안녕 내꺼..<3 
     <br><img src="h.jpg"></p>
  
- <p style= "font-size: 36px;">
+ <p style= "font-size: 23px;">
     <br>너의 페이지가 망가졌다니 너무 슬퍼...
   <ol><li><a href="jo7.html">너에게 할 말..</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
