@@ -1,6 +1,10 @@
 # hanjo-and-me
 <body>
-  <p><ol><li><a href="jo7.html">너에게 할 말..</a></li>
+  <p style= "margin-top: 200px;">
+  <br>
+    <br>안녕 내꺼..<3
+    <br>
+  <ol><li><a href="jo7.html">너에게 할 말..</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
   <li><a href="jo6.html">오락실</a></li>
