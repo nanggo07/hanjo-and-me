@@ -22,13 +22,4 @@
  <p style= "font-size: 27px;">
  <br>
  <li><a href="Paris in the rain.html">PARIS IN THE RAIN - Lauv </a></li>
- <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li>
- 
-  
-  
-  </ol>
-  
-  </p>
-  
-  
-  </body>
+ <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li></ol></p></body>
