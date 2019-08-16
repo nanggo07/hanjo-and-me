@@ -22,13 +22,13 @@
  <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <br>
  
- <p style= "font-size: 27px;">
+ <p style= "font-size: 15px;">
   NAFLA
   <br>
   <br>혼자가 편해
  <br><iframe width="300" height="165" src="https://www.youtube.com/embed/hHggGzDXxcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
   <br>smile[ANGELS]
- <br><iframe width="715" height="402" src="https://www.youtube.com/embed/k5-e3vSXSEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br><iframe width="300" height="165" src="https://www.youtube.com/embed/k5-e3vSXSEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
  
 
