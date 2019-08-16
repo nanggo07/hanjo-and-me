@@ -12,7 +12,7 @@
   <br>
   <br>
  <ol>
-   <li><a href="coffee noon.html">COFFEE NOON</a></li>
+   <li><a href="coffee noo.html">COFFEE NOON</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
   <li><a href="jo6.html">오락실 {new}</a></li>
@@ -30,16 +30,7 @@
  <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <br>
  
- <p style= "font-size: 15px;">
-  NAFLA
-  <br>
-  <br>혼자가 편해 (she suckin it everyday~)
- <br><iframe width="300" height="165" src="https://www.youtube.com/embed/hHggGzDXxcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-  <br>smile[ANGELS]
- <br><iframe width="300" height="165" src="https://www.youtube.com/embed/k5-e3vSXSEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
- 
- 
+
  
  <div id="cp_widget_e08c7c07-4ae0-4c34-a8c8-ef9a3302c38f">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_e08c7c07-4ae0-4c34-a8c8-ef9a3302c38f"; cpo["_fid"] = "AgNAnhOKoHJS";
