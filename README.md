@@ -1,19 +1,20 @@
 # hanjo-and-me
 <body>
-  <p style= "margin-top: 200px; font-size: 35px;">
-    <br>안녕 내꺼..<3 
+  <p style= "margin-top: 20px; font-size: 35px;">
+    <br>안녕 내꺼..<3 ㅎㅅㅎ
     <br><img src="h.jpg"></p>
  
  <p style= "font-size: 23px;">
-    <br>다시 오신걸 환영합니다.
-  <ol><li><a href="jo7.html">너를 찾아온 손님</a></li>
+    <br>다시 오신것을 환영합니다.
+<ol><li><a href="jo7.html"><strong>똑똑!너를 찾아온 손님</strong></a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
   <li><a href="jo6.html">오락실 {new}</a></li>
   <li><a href="jo5.html">GOOD STUFFS</a></li>
     <li><a href="jo4.html">ㅇㅎㄹㄲㄲㄹㅎㅇ</a></li>
-    <li><a href=""></a></li></ol>
+    </ol>
   </p>
+ 
   
   
   <p style= "margin-top: 300px; font-size: 34px;">
@@ -25,7 +26,7 @@
  <p style= "font-size: 15px;">
   NAFLA
   <br>
-  <br>혼자가 편해
+  <br>혼자가 편해 (she suckin it everyday~)
  <br><iframe width="300" height="165" src="https://www.youtube.com/embed/hHggGzDXxcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
   <br>smile[ANGELS]
  <br><iframe width="300" height="165" src="https://www.youtube.com/embed/k5-e3vSXSEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
