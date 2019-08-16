@@ -5,7 +5,7 @@
     <br><img src="h.jpg"></p>
  
  <p style= "font-size: 23px;">
-    <br>너의 페이지가 망가졌다니 너무 슬퍼...
+    <br>다시 오신걸 환영합니다.
   <ol><li><a href="jo7.html">너에게 할 말..</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
@@ -17,12 +17,19 @@
   
   <p style= "margin-top: 300px; font-size: 34px;">
   
+  <p><strong>*MUSIC TRACKS* </strong></p>
  <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
- <br><p><strong>*MUSIC TRACKS*</strong></p>
- <p style= "font-size: 27px;">
  <br>
- <ol><li><a href="Paris in the rain.html">PARIS IN THE RAIN - Lauv </a></li>
- <li><a href="jo3.html">WHEN WE ALL FALL ASEEP, WHERE DO WE GO? - Billie Eilish</a></li></ol></p>
+ 
+ <p style= "font-size: 27px;">
+  NAFLA
+  <br>
+  <br>혼자가 편해
+ <br><iframe width="300" height="165" src="https://www.youtube.com/embed/hHggGzDXxcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+  <br>smile[ANGELS]
+ <br><iframe width="715" height="402" src="https://www.youtube.com/embed/k5-e3vSXSEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+ 
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -40,6 +47,6 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 
-https://tawk.to/chat/5d560143eb1a6b0be607c01d/default
+
 
 </body>
