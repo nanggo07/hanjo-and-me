@@ -6,12 +6,13 @@
  
  <p style= "font-size: 23px;">
     <br>다시 오신걸 환영합니다.
-  <ol><li><a href="jo7.html">너에게 할 말..</a></li>
+  <ol><li><a href="jo7.html">너를 찾아온 손님</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
-  <li><a href="jo6.html">오락실</a></li>
+  <li><a href="jo6.html">오락실 {new}</a></li>
   <li><a href="jo5.html">GOOD STUFFS</a></li>
-    <li><a href="jo4">보고싶다~~</a></li></ol>
+    <li><a href="jo4.html">ㅇㅎㄹㄲㄲㄹㅎㅇ</a></li>
+    <li><a href=""></a></li></ol>
   </p>
   
   
