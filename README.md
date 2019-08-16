@@ -18,8 +18,7 @@
   <li><a href="jo6.html">오락실 {new}</a></li>
   <li><a href="jo5.html">GOOD STUFFS</a></li>
     <li><a href="jo4.html">ㅇㅎㄹㄲㄲㄹㅎㅇ</a></li>
-  
-    </ol>
+  </ol>
   </p>
  
   
