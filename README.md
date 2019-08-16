@@ -12,7 +12,7 @@
   <br>
   <br>
  <ol>
-   <li><a href="coffee noon.html">COFFEE NOON</a></li>
+   <li><a href="coffee noon.html">COFFEE NOO</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
   <li><a href="jo6.html">오락실 {new}</a></li>
