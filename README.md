@@ -31,8 +31,9 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>main</span></no
   
   <p style= "margin-top: 300px; font-size: 34px;">
   
-  <p><strong></strong></p>
- <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <p><strong>내일 살거</strong></p>
+ <iframe width="922" height="519" src="https://www.youtube.com/embed/_g6ggSNn4YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
  <br>
  
 
