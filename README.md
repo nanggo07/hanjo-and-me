@@ -1,8 +1,14 @@
 # hanjo-and-me
 <body>
-  <p style= "margin-top: 20px; font-size: 35px;">
-    <br>안녕 내꺼..<3
-    <br><img src="h.jpg"></p>
+ 
+ <div id="cp_widget_af4212df-482c-482c-8628-c20032e80107">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_af4212df-482c-482c-8628-c20032e80107"; cpo["_fid"] = "AgNAnhOKoHJS";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>main</span></noscript>
+ 
  
  <p style= "font-size: 23px;">
     <br>다시 오신것을 환영합니다.
@@ -12,12 +18,12 @@
   <br>
   <br>
  <ol>
-   <li><a href="coffee noon.html">COFFEE NOO</a></li>
+   <li><a href="coffee noo.html">COFFEE NOON</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
   <li><a href="jo6.html">오락실 {new}</a></li>
   <li><a href="jo5.html">GOOD STUFFS</a></li>
-    <li><a href="jo4.html">ㅇㅎㄹㄲㄲㄹㅎㅇ</a></li>
+    <li><a href="jo4.html">으흐르꾸꾸</a></li>
   </ol>
   </p>
  
@@ -25,20 +31,13 @@
   
   <p style= "margin-top: 300px; font-size: 34px;">
   
-  <p><strong>*MUSIC TRACKS* </strong></p>
+  <p><strong></strong></p>
  <iframe width="370" height="225" src="https://www.youtube.com/embed/FjHGZj2IjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <br>
  
 
  
- <div id="cp_widget_e08c7c07-4ae0-4c34-a8c8-ef9a3302c38f">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_e08c7c07-4ae0-4c34-a8c8-ef9a3302c38f"; cpo["_fid"] = "AgNAnhOKoHJS";
-var _cpmp = _cpmp || []; _cpmp.push(cpo);
-(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
-var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 2019/8/17</span></noscript>
- 
+
  
 
 <!--Start of Tawk.to Script-->
