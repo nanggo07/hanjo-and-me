@@ -32,7 +32,7 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>main</span></no
   <p style= "margin-top: 280px; font-size: 34px;">
   
   <p><strong>내일 살거</strong></p>
- <iframe width="300" height="165" src="https://www.youtube.com/embed/_g6ggSNn4YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="330" height="190" src="https://www.youtube.com/embed/_g6ggSNn4YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
  <br>
  
