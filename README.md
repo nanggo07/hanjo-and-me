@@ -11,13 +11,15 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>main</span></no
  
  
  <p style= "font-size: 23px;">
-    <br>다시 오신것을 환영합니다.
-  <br>
-<a href="jo7.html"><img src="siba.jpg">></a>
- <br>헥헥!
+    <br>쿠틀스 톨
+ <br>
+ <iframe width="400" height="300" src="https://www.youtube.com/embed/gu3KzCWoons" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ <br>
   <br>
   <br>
  <ol>
+  <li><a href="jo7.html">시바스키</a></li>
    <li><a href="coffee noo.html">COFFEE NOON</a></li>
   <li><a href="jo.html">우리의 아름다운 갤러리</a></li>
   <li><a href="jo2.html">우리 애완동물</a></li>
@@ -32,7 +34,8 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>main</span></no
   <p style= "margin-top: 280px; font-size: 34px;">
   
   <p><strong>내일 살거</strong></p>
- <iframe width="330" height="190" src="https://www.youtube.com/embed/_g6ggSNn4YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="330" height="190" src="https://www.youtube.com/embed/_g6ggSNn4YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
  <br>
  
